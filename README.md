@@ -1,1 +1,2 @@
 # Bhargav_EcommerceWebsiteAutomation_Test-Ing
+This project is centered around evaluating an e-commerce website's functionality, user experience, and overall performance. Participants are required to develop various test cases and implement them both manually and using automation tools. They will identify and document any bugs or defects, which will then be communicated to the development team. The primary objective of this project is to guarantee that the website adheres to all client specifications and offers users a smooth and enjoyable shopping experience.
